@@ -26,7 +26,7 @@
         </criteriaItems>
         <criteriaItems>
             <field>User.IsActive</field>
-            <operation>equals</operation>
+            <operation>greater</operation>
             <value>True</value>
         </criteriaItems>
         <description>descr from meta22222</description>
