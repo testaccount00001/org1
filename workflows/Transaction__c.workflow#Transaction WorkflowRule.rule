@@ -22,7 +22,7 @@
         <criteriaItems>
             <field>Transaction__c.RecordTypeId</field>
             <operation>equals</operation>
-            <value>CUSTOMER</value>
+            <value>DEALER</value>
         </criteriaItems>
         <criteriaItems>
             <field>User.IsActive</field>
