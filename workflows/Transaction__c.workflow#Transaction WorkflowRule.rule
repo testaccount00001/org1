@@ -27,10 +27,10 @@
         <criteriaItems>
             <field>User.IsActive</field>
             <operation>equals</operation>
-            <value>False</value>
+            <value>True</value>
         </criteriaItems>
         <description>descr from meta22222</description>
         <triggerType>onCreateOnly</triggerType>
     </rules>
 </Workflow>
-
+ 
