@@ -1,5 +1,6 @@
 public with sharing class BranchMergeBatch implements Database.batchable<sobject>,Database.AllowsCallouts,Database.Stateful
 {
+    // updated	
     private String query ='SELECT Id FROM Branch__c WHERE Id=\'\'';
     private Id branchId;
     
