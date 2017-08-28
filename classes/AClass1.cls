@@ -10,5 +10,5 @@ public class AClass1 {
     // comment with problem symbols '@3$~56__+= '   'and
     Double f1 = 0.1;
     // last line updated
-    
+    // added one line
 }
